@@ -11,8 +11,8 @@ It is the in-famous OG tic-tac-toe where a perfect line wins the game and none r
 5. If all squares selected but nobody won, Game Over dialog box pops up with "Its a draw message"
 6. Game Over dialog box offers a rematch button that resets the game
 
-**DEMO - Sandbox.io**
-<p>URL: https://fxw55d-5173.csb.app/</p>
+**demo url**
+url: https://tick-tac-toe-gameboard.vercel.app
 
 **Game board - As the game starts or game restarts**
 <img width="768" height="761" alt="game reset" src="https://github.com/user-attachments/assets/fcdd382d-f055-42ad-9066-3d7a0b8f2912" />
@@ -53,5 +53,8 @@ npm run dev
 ```
 
 and then you can open http://localhost:5173 to view it in the browser.
+
+**DEMO - Sandbox.io**
+<p>URL: https://fxw55d-5173.csb.app/</p>
 
 
